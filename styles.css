@@ -1,0 +1,33 @@
+/************************Tag Selectors*******************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-color: #926E6F;
+  border-style: none none dotted;
+  border-bottom-width: thick;
+  border-width: 5px;
+  width: 6%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+
+/************************CLass Selectors*******************/
+
+.profilepic {
+  border-radius: 100%;
+}
